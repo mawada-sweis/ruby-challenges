@@ -8,10 +8,10 @@ def fibonacci(number):
 # Explanation: F(2) = F(1) + F(0) = 1 + 0 = 1
 print(f'result = {fibonacci(2)}')
 
-# Test 1: Fibonacci of 3 is 2
+# Test 2: Fibonacci of 3 is 2
 # Explanation: F(3) = F(2) + F(1) = 1 + 1 = 2
 print(f'result = {fibonacci(3)}')
 
-# Test 1: Fibonacci of 4 is 3
+# Test 3: Fibonacci of 4 is 3
 # Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3
 print(f'result = {fibonacci(4)}')
